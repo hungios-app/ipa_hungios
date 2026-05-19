@@ -14,12 +14,12 @@
       "name": "FilzaJailed",
       "version": "2.2.30",
       "versionDate": "2026-05-19",
-      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkG2kXwiV3H3Z8SbBRtneRJghI9d_dnLFkvg&s",
+      "icon": "https://filzadownload.com/wp-content/uploads/2019/06/icon.png",
       "downloadURL": "https://github.com/hungios-app/hung-ios/releases/download/v1/FilzaJailed.ipa",
       "description": "ứng dụng cho phép chỉnh sửa chuyên sâu trên iphone(ios17-26.0.1)"
     }
     {
-      "name": "Spotify chặn quảng cáo",
+      "name": "Spotify No Ads",
       "version": "2.2.30",
       "versionDate": "2026-05-19",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1280px-Spotify_icon.svg.png",
@@ -32,7 +32,7 @@
       "versionDate": "2026-05-19",
       "icon": "https://play-lh.googleusercontent.com/1JMJ518jogwPeaD0pYn2mBu1cRLD0xRi45wNbtTIRvam1_xx-y3KJOjRAx-W9P4Lf0U=s256-rw",
       "downloadURL": "https://github.com/hungios-app/hung-ios/releases/download/v1/Picsart.ipa",
-      "description": "mở khóa các tính năng gold của "
+      "description": "mở khóa các tính năng gold của Picsart."
     }
   ]
 }
